@@ -18,11 +18,11 @@ site:
       target: _self
 
 monster:
-  logo: image
+  logo: /image
   drink:
-    original: image/drink/original
-    reserve: image/drink/reserve
-    ultra: image/drink/ultra
+    original: /image/drink/original
+    reserve: /image/drink/reserve
+    ultra: /image/drink/ultra
     juice: /image/drink/juice
     rehab: /image/drink/rehab
     java: /image/drink/java
