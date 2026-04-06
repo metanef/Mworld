@@ -5,7 +5,17 @@ import MainCard from "../components/MainCard.astro";
 import FeatureCard from "../components/mdx/FeatureCard.astro";
 import ScrollToTop from "../components/widgets/ScrollToTop.astro";
 import { Image } from "astro:assets";
-import { USER_AVATAR, MONSTER, MONSTER_ULTRA, MONSTER_ORIGINAL, MONSTER_RESERVE, MONSTER_JUICE, MONSTER_REHAB, MONSTER_JAVA, MONSTER_TRIPLE_SHOT } from "../config";
+import {
+  USER_AVATAR,
+  MONSTER,
+  MONSTER_ULTRA,
+  MONSTER_ORIGINAL,
+  MONSTER_RESERVE,
+  MONSTER_JUICE,
+  MONSTER_REHAB,
+  MONSTER_JAVA,
+  MONSTER_TRIPLE_SHOT,
+} from "../config";
 ---
 
 <BaseLayout title="mworld">
@@ -15,30 +25,35 @@ import { USER_AVATAR, MONSTER, MONSTER_ULTRA, MONSTER_ORIGINAL, MONSTER_RESERVE,
     textOverlay="mworld"
     infoIcon="lucide:info"
   >
-  <Image
-    class="mask mask-circle place-self-center"
-    format="webp"
-    width={150}
-    height={150}
-    src={USER_AVATAR}
-    alt="Profile"
-    loading="eager"
-  />
+    <Image
+      class="mask mask-circle place-self-center"
+      format="webp"
+      width={150}
+      height={150}
+      src={USER_AVATAR}
+      alt="Profile"
+      loading="eager"
+    />
     <div class="space-y-8">
       <!-- Hero Section -->
       <section class="py-6">
         <div class="flex flex-col items-center text-center">
-          <h1 class="text-4xl font-bold mb-4 bg-gradient-to-r from-emerald-300 to-emerald-600 bg-clip-text text-transparent">
+          <h1
+            class="text-4xl font-bold mb-4 bg-gradient-to-r from-emerald-300 to-emerald-600 bg-clip-text text-transparent"
+          >
             🥤 m world
           </h1>
           <p class="text-xl text-base-content/80 max-w-3xl mb-8">
-            Welcome to the ultimate Monster Energy drink catalog! You're a die-hard fan or just curious about the bold flavors, 
-            this website is your one-stop destination for exploring every variety in the Monster Energy lineup. 
-            <br>Discover your favorites and fuel up with the perfect Monster to match your vibe!
+            Welcome to the ultimate Monster Energy drink catalog! You're a die-hard fan or just curious about the bold
+            flavors, this website is your one-stop destination for exploring every variety in the Monster Energy lineup.
+            <br />Discover your favorites and fuel up with the perfect Monster to match your vibe!
           </p>
           <div class="flex flex-wrap gap-4 justify-center">
             <div class="text-emerald-500 text-2xl font-bold mb-4">
-              <Icon name="lucide:arrow-big-down-dash" class="w-5 h-5 inline" /><span>Dive in</span><Icon name="lucide:arrow-big-down-dash" class="w-5 h-5 inline" />
+              <Icon name="lucide:arrow-big-down-dash" class="w-5 h-5 inline" /><span>Dive in</span><Icon
+                name="lucide:arrow-big-down-dash"
+                class="w-5 h-5 inline"
+              />
             </div>
           </div>
         </div>
@@ -92,6 +107,13 @@ import { USER_AVATAR, MONSTER, MONSTER_ULTRA, MONSTER_ORIGINAL, MONSTER_RESERVE,
             description="Super Dry is infused with nitrous-oxide creating a smooth, citrus flavor with a light & dry texture similar to fine champagne that is better experienced than explained."
             flavor="Citrus with texture similar to fine champagne"
             color="#DCF424"
+          />
+          <FeatureCard
+            title="Monster Energy Lando Norris"
+            image={MONSTER_ORIGINAL + "/original_lando_norris_zero.webp"}
+            description="Multiple Formula 1 race winner Lando Norris spends his weekends racing 230mph spaceships, and this zero-sugar Monster drink tastes exactly how you’d imagine that feels. Watch your back — the new era is here, and it’s tasting good."
+            flavor="Fresh melon & Yuzu"
+            color="#e1ff00"
           />
           <FeatureCard
             title="Monster Energy Assault"
@@ -435,8 +457,8 @@ import { USER_AVATAR, MONSTER, MONSTER_ULTRA, MONSTER_ORIGINAL, MONSTER_RESERVE,
         </div>
       </section>
 
-       <!-- Tripleshot Section -->
-       <section class="py-6">
+      <!-- Tripleshot Section -->
+      <section class="py-6">
         <h2 class="text-2xl font-bold mb-6 flex place-self-center gap-2">
           <Image
             class="mask"
