@@ -1,0 +1,312 @@
+sections:
+  - title: Original Section
+    bannerBase: monster
+    banner: monster_original.webp
+    cardBase: original
+    cards:
+      - title: The Original Green Monster Energy
+        image: original_green.webp
+        description: "Tear into a can of one of the meanest energy drinks on the planet, Monster OG. It's a smooth, refreshing blend of sweet and salty exotic citrus flavors with a hint of pure adrenaline packing 160mg of caffeine. Unleash the beast!"
+        flavor: Sweet and Salty - It tastes like Monster!
+        color: "#ADCD60"
+      - title: The Original Monster Energy Super-Premium Import
+        image: original_super_premium.webp
+        description: "Super-premium resealable Monster originally imported from Amsterdam. Import has the same can, same great taste, same winning formula and packs a punch with 180mg of caffeine to deliver the big, bad buzz."
+        flavor: Monster with a good clean Euro flav
+        color: "#ADCD60"
+      - title: Zero Sugar Monster Energy
+        image: original_zero.webp
+        description: Monster Zero Sugar has the ideal combo of the right ingredients in the right proportion to deliver just the right kick with the same taste as OG but with Zero Sugar.
+        flavor: Sweet and Salty
+        color: "#ADCD60"
+      - title: The Original Lo-Carb Monster Energy
+        image: original_locarb.webp
+        description: "Monster Energy Lo-Carb packs a powerful punch and has a smooth, easy drinking flavor, but without glucose. Get a sweet & salty citrus twist with a fraction of the carbohydrates and only 30 calories per can and with 140mg of Caffeine."
+        flavor: Sweet and Salty - Lo-Carb Monster!
+        color: "#00C6E9"
+      - title: Monster Energy Nitro Super Dry
+        image: original_nitro.webp
+        description: "Super Dry is infused with nitrous-oxide creating a smooth, citrus flavor with a light & dry texture similar to fine champagne that is better experienced than explained."
+        flavor: Citrus with texture similar to fine champagne
+        color: "#DCF424"
+      - title: Monster Energy Lando Norris
+        image: original_lando_norris_zero.webp
+        description: "Multiple Formula 1 race winner Lando Norris spends his weekends racing 230mph spaceships, and this Monster drink tastes exactly how you’d imagine that feels. Watch your back — the new era is here, and it’s tasting good."
+        flavor: "Fresh melon & Yuzu"
+        color: "#e1ff00"
+      - title: Monster Energy Assault
+        image: original_assault.webp
+        description: "Refreshing; like a soft drink but loaded with the same energy blend that makes Monster the meanest energy drink on the planet. Assault packs a punch with 160mg of caffeine and has a smooth, easy Bourbon-Cola flavor."
+        flavor: "Bourbon Cola & Monster"
+        color: "#9D7757"
+
+  - title: Reserve Section
+    bannerBase: monster
+    banner: monster_reserve.webp
+    cardBase: reserve
+    cards:
+      - title: Monster Energy Reserve White Pineapple
+        image: reserve_white_pineapple.webp
+        description: Monster Reserve White Pineapple gives you an authentic pineapple taste combined with the same powerful Monster Energy blend.
+        flavor: Monster Energy with authentic pineapple
+        color: "#FFF15C"
+      - title: Monster Energy Reserve Orange Dreamsicle
+        image: reserve_orange_dreamsicle.webp
+        description: Monster Reserve Orange Dreamsicle gives you a citrusy orange flavor combined with creamy vanilla bean that’s packed with the same powerful Monster Energy blend.
+        flavor: Monster Energy with creamy orange sherbet
+        color: "#FC8827"
+      - title: Monster Energy Reserve Peaches n’ Crème
+        image: reserve_peaches_ncreme.webp
+        description: Monster Reserve Peaches n’ Crème gives you a dessert-like flavor that is sure to satisfy your sweet cravings and energy needs all in one.
+        flavor: "Monster Energy with sweet peaches & crème"
+        color: "#F7B687"
+
+  - title: Juice Section
+    bannerBase: monster
+    banner: monster_juice.webp
+    cardBase: juice
+    cards:
+      - title: Juice Monster Mango Loco
+        image: juice_mango_loco.webp
+        description: "A heavenly blend of carbonated exotic juices, Mango Loco has that crazy good taste with that Monster magic to keep the party going for days."
+        flavor: Juicy Mango
+        color: "#00B9FE"
+      - title: Juice Monster Pacific Punch
+        image: juice_pacific_punch.webp
+        description: "A carbonated classic fruit punch with our Monster Energy blend, Pacific Punch will help put wind in your sails and keep you steady on course, no matter how rough the seas."
+        flavor: Classic Fruit Punch
+        color: "#E2CFAA"
+      - title: Juice Monster Pipeline Punch
+        image: juice_pipeline_punch.webp
+        description: "Like the Banzai Pipeline of Oahu, Pipeline Punch was destined to become a legend. The perfect carbonated blend of passion fruit, orange, guava, and our Monster Energy blend."
+        flavor: "Passion Fruit, Orange, and Guava"
+        color: "#EA4F68"
+      - title: Juice Monster Rio Punch
+        image: juice_rio_punch.webp
+        description: "A perfect mix of carbonated juices, vitamins, and our world-famous Monster energy blend. Taste the exotic flavors of Juice Monster Rio Punch, inspired by the epic energy of Rio De Janeiro’s Carnival"
+        flavor: "Sweet papaya, vanilla ice cream, black currant"
+        color: "#28AA2F"
+      - title: Juice Monster Aussie Style Lemonade
+        image: juice_aussie_lemonade.webp
+        description: "Inspired by the land down under and powered by our world-famous Monster Energy blend, Aussie Style Lemonade is a carbonated exotic twist on lemonade. Tart yet sweet, with a burst of fresh citrus flavor."
+        flavor: Exotic Lemonade
+        color: "#01898D"
+      - title: Juice Monster Khaotic
+        image: juice_khaotic.webp
+        description: "Born in '05, this carbonated orange-citrus juice changed the game. Reborn in 2021 to lighten the flavor and adjust the blend, Khaos became Khaotic with an upgraded paint job by legendary street artist and longtime Monster Energy friend, Risk."
+        flavor: Orange Citrus
+        color: "#EF8829"
+      - title: Juice Monster Voodoo Grape
+        image: juice_voodoo_grape.webp
+        description: "Brewed in the shadows, Juice Monster Voodoo Grape is crafted to stir your spirit with the authentic, full-bodied taste of real Concord, Niagara, and red grape juices."
+        flavor: Purple Grape
+        color: "#AD57FF"
+      - title: Juice Monster Bad Apple
+        image: juice_bad_apple.webp
+        description: "Sinfully smooth, dangerously crisp. Bad Apple delivers Fuji apple flavor with real juice and the Monster Energy blend. This isn’t your grandma’s apple juice."
+        flavor: Classic fuji apple flavor that's crisp, dry and not too sweet
+        color: "#F63513"
+      - title: Juice Monster Viking Berry
+        image: juice_viking_berry.webp
+        description: "A berry-bold adventure inspired by Nordic flavors. Viking Berry blends exotic fruit juice with the Monster Energy signature blend for powerful, flavorful fuel—raise your drinks, skol!"
+        flavor: Berry flavors with a unique twist
+        color: "#F7599A"
+      - title: Juice Monster Monarch
+        image: juice_monarch.webp
+        description: "Monarch is a delicious blend of peach and nectarine flavors that will have you feeling like royalty. A peachy 500 ml can, carbonated fruit-flavored energy drink."
+        flavor: Peach and Nectarine
+        color: "#FF9A75"
+      - title: Juice Monster MIXXD
+        image: juice_mixxd.webp
+        description: "MIXXD is a delicious blend of tropical fruit flavors that will have you feeling like you're on a beach vacation. A tropical punch 500 ml can, carbonated fruit-flavored energy drink."
+        flavor: Tropical punch
+        color: "#F41597"
+
+  - title: Rehab Section
+    bannerBase: monster
+    banner: monster_rehab.webp
+    cardBase: rehab
+    cards:
+      - title: Rehab Monster Strawberry Lemonade
+        image: rehab_strawberry_lemonade.webp
+        description: "Strawberry Lemonade packed with electrolytes, vitamins, and botanicals that deliver on advanced hydration helping you reduce fatigue and increase concentration."
+        flavor: Strawberry Lemonade
+        color: "#DC1C2B"
+      - title: "Rehab Monster Tea & Lemonade"
+        image: rehab_tea_lemonade.webp
+        description: "Brewed Tea and Lemonade packed with electrolytes, vitamins, and botanicals that deliver on advanced hydration helping you reduce fatigue and increase concentration."
+        flavor: Brewed Tea and Lemonade
+        color: "#FEDE00"
+      - title: Rehab Monster Peach Tea
+        image: rehab_peach_tea.webp
+        description: "Brewed Peach Tea packed with electrolytes, vitamins, and botanicals that deliver on advanced hydration helping you reduce fatigue and increase concentration."
+        flavor: Brewed Peach Tea
+        color: "#F2984B"
+      - title: Rehab Monster Wild Berry
+        image: rehab_wild_berry.webp
+        description: "Wild Berry Tea packed with electrolytes, vitamins, and botanicals that deliver on advanced hydration helping you reduce fatigue and increase concentration."
+        flavor: Mixed Berry
+        color: "#A21965"
+      - title: Rehab Monster Green Tea
+        image: rehab_green_tea.webp
+        description: "Green Tea packed with electrolytes, vitamins, and botanicals that deliver on advanced hydration helping you reduce fatigue and increase concentration."
+        flavor: Green Tea
+        color: "#99C033"
+
+  - title: Ultra Section
+    bannerBase: monster
+    banner: monster_ultra.webp
+    cardBase: ultra
+    cards:
+      - title: Zero Ultra White Monster
+        image: zero_ultra.webp
+        description: "The light, refreshing citrus flavor of Zero Ultra has broken the rules of flavor. 10 calories, zero sugar, and a full load of our Monster Energy blend to keep the good times rolling."
+        flavor: Light Refreshing Citrus
+        color: "#B8B8B8"
+      - title: Ultra Vice Guava
+        image: zero_ultra_vice_guava.webp
+        description: "With zero sugar to weigh you down, the fresh taste of perfectly ripened guava, and our world-famous Monster Energy blend, Ultra Vice Guava has you covered!"
+        flavor: Guava
+        color: "#40CFBA"
+      - title: Ultra Fantasy Ruby Red
+        image: zero_ultra_fantasy_ruby_red.webp
+        description: "Ultra Fantasy Ruby Red, a refreshing drink that balances sweetness and tartness with a citrus flavor. It’s light and easy to drink, yet delivers the powerful Monster Energy blend you expect, featuring zero sugar and only 10 calories."
+        flavor: Fresh Pink Pamplemousse
+        color: "#CF539F"
+      - title: Ultra Peachy Keen
+        image: zero_ultra_peachy_keen.webp
+        description: Zero Sugar Ultra Peachy Keen has just 10 calories and a full load of our Monster Energy blend. The juicy peach flavor will send you back to the summer of love.
+        flavor: Refreshing Peach
+        color: "#E99E8F"
+      - title: Ultra Watermelon
+        image: zero_ultra_watermelon.webp
+        description: "Ultra Watermelon brings you summer all year long. Zero sugar, bold watermelon flavor, 10 calories and the Monster Energy blend."
+        flavor: Refreshing Watermelon
+        color: "#F83C47"
+      - title: Ultra Gold
+        image: zero_ultra_gold.webp
+        description: "Ultra Gold has the heavenly fresh flavor of a perfectly ripened golden pineapple. Zero Sugar, 10 calories, lighter tasting, and with our Monster Energy blend."
+        flavor: Refreshing Golden Pineapple
+        color: "#EBCB6A"
+      - title: Ultra Sunrise
+        image: zero_ultra_sunrise.webp
+        description: "Ultra Sunrise's zero sugar orange blend is great morning or night. Zero sugar, 10 calories, and with a light, crisp, and refreshing flavor all its own."
+        flavor: Light and Crisp Citrus and Orange
+        color: "#CE632A"
+      - title: Ultra Rosá
+        image: zero_ultra_rosa.webp
+        description: "Ultra Rosa is crafted with blend of flavors for a whole new experience. Zero Sugar, 10 calories, bright, and sweet!"
+        flavor: Bright and Sweet
+        color: "#D54F73"
+      - title: Ultra Violet
+        image: zero_ultra_violet.webp
+        description: "Inspired by the hazy purple funk and kaleidoscopes of the 70's, Ultra Violet has 10 calories, zero sugar, and a light citrus and grape flavor."
+        flavor: Light Citrus and Grape
+        color: "#6C4191"
+      - title: Ultra Red
+        image: zero_ultra_red.webp
+        description: "Made right here in the USA, zero sugar Ultra Red is great for any occasion. Light, crisp, refreshing berry flavor with only 10 calories but all the flavor you're accustomed to."
+        flavor: Crisp and Refreshing Mixed Berry
+        color: "#CC2131"
+      - title: Ultra Blue
+        image: zero_ultra_blue.webp
+        description: "Inspired by epic snow trips and mountain towns, Sugar-free Ultra Blue has a light citrus and berry flavor, with 10 calories and a full-load of our Monster energy blend."
+        flavor: Light Citrus and Berry
+        color: "#5793D1"
+      - title: Ultra Black
+        image: zero_ultra_black.webp
+        description: "Zero Sugar Monster Ultra Black offers a crisp, slightly sweet black cherry flavor with just 10 calories. Get it while the getting's is good."
+        flavor: Crisp and Refreshing Black Cherry
+        color: "#111111"
+      - title: Ultra Strawberry Dreams
+        image: zero_ultra_strawberry_dreams.webp
+        description: "Take just one sip and you'll be crazy for Ultra Strawberry Dreams. Wonderfully sweet, while slightly tart, this easy-drinking Ultra tastes like a dream."
+        flavor: "Sweet, yet tart strawberry flavor"
+        color: "#E3A6CD"
+      - title: Ultra Paradise
+        image: zero_ultra_paradise.webp
+        description: "Ultra Paradise is wherever you can find it. Delivering island flavors with kiwi, lime, and a hint of cucumber, with just 10 calories and zero sugar."
+        flavor: Kiwi Lime with a hint of Cucumber
+        color: "#71B339"
+      - title: Ultra Fiesta Mango
+        image: zero_ultra_fiesta_mango.webp
+        description: "Ultra Fiesta has a juicy mango flavor, zero sugar, and is finished-off with a full load of our Monster Energy blend."
+        flavor: Cool Mango
+        color: "#017D87"
+      - title: Ultra Blue Hawaiian
+        image: zero_ultra_blue_hawaiian.webp
+        description: "Light, crisp, and super easy drinking with a tropical tiki twist. Ultra Blue Hawaiian is a killer combo of exotic Polynesian fruit flavors that are big on taste, with zero sugar."
+        flavor: "Light & Easy-Drinking Tropical Blend"
+        color: "#00B1DA"
+      - title: Ultra Wild Passion
+        image: zero_ultra_wild_passion.webp
+        description: "Sweet and tart passionfruit with a citrus twist. This zero-sugar, low-calorie energy drink is bright, bold, and powered by the Monster Energy signature blend."
+        flavor: Passionfruit with citrus
+        color: "#DD91E0"
+      - title: Ultra Punk Punch
+        image: zero_ultra_punk_punch.webp
+        description: Ultra Punk Punch brings back the nostalgic flavor of fruit punch with zero sugar and the perfect amount of energy to power you through your day.
+        flavor: Classic fruit punch flavor
+        color: "#cd2262"
+      - title: Ultra Red White Blue Razz
+        image: zero_ultra_red_white_blue_razz.webp
+        description: "It delivers a nostalgic blast of blue raspberry rocket pop flavor with a crisp, refreshing finish. Zero sugar, light and easy to drink, and loaded with our legendary Monster energy blend to keep you fired up."
+        flavor: Blue Raspberry
+        color: "#F83545"
+
+  - title: Java Section
+    bannerBase: monster
+    banner: monster_java.webp
+    cardBase: java
+    cards:
+      - title: Java Monster Mean Bean
+        image: java_mean_bean.webp
+        description: "It's time to break your coffee routine with Java Monster. Mean Bean is coffee + cream in an indulgent vanilla flavor. Java Monster… premium coffee and cream brewed up with killer flavor, supercharged with Monster energy blend."
+        flavor: Vanilla Bean
+        color: "#DCBF8B"
+      - title: Java Monster Loca Moca
+        image: java_loca_moca.webp
+        description: "It's time to break your coffee routine with Java Monster. Loca Moca is coffee + cream in an indulgent mocha chocolate flavor. Java Monster… premium coffee and cream brewed up with killer flavor, supercharged with Monster energy blend."
+        flavor: Chocolate Mocha
+        color: "#B6825E"
+      - title: Java Monster Salted Caramel
+        image: java_salted_caramel.webp
+        description: "It's time to break your coffee routine with Java Monster. Salted Caramel is coffee + cream in an indulgent salted caramel flavor. Java Monster… premium coffee and cream brewed up with killer flavor, supercharged with Monster energy blend."
+        flavor: Sweet and Savory Salted Caramel
+        color: "#D5A043"
+      - title: Java Monster Irish Crème
+        image: java_irish_creme.webp
+        description: "Introducing the new and improved Java Monster Irish Crème! Java Monster Irish Crème is premium coffee + cream supercharged with legendary Monster Energy blend."
+        flavor: Non-Alcoholic Irish Coffee
+        color: "#32B753"
+      - title: Café Latte
+        image: java_cafe_latte.webp
+        description: "Java Monster Café Latte is coffee forward with the right amount of cream and sugar, supercharged with the Monster Energy blend."
+        flavor: Coffee forward with cream and sugar
+        color: "#483321"
+
+  - title: Tripleshot Section
+    bannerBase: monster
+    banner: monster_tripleshot.webp
+    cardBase: triple_shot
+    cards:
+      - title: Killer Brew Mean Bean
+        image: killer_mean_bean.webp
+        description: Killer Brew Mean Bean is brewed coffee plus cream with an indulgent vanilla coffee forward flavor. Killer Brew packs a 300mg punch of caffeine derived from both coffee and the Monster energy blend you know and love. Killer flavor and killer strength.
+        flavor: Vanilla Coffee
+        color: "#147D95"
+      - title: Killer Brew Loca Moca
+        image: killer_loca_moca.webp
+        description: Killer Brew Loca Moca is brewed coffee plus cream with an indulgent mocha flavor. Killer Brew packs a 300mg punch of caffeine derived from both coffee and the Monster energy blend you know and love. Killer flavor and killer strength.
+        flavor: Mocha
+        color: "#CB1E3B"
+      - title: Java Monster Triple Shot French Vanilla
+        image: 3s_french_vanilla.webp
+        description: For those of us who need that extra boost comes Java Monster 300. Java Monster French Vanilla has 300mg of natural caffeine in an indulgent French Vanilla flavor.
+        flavor: "Vanilla notes, caramelized and custard-like"
+        color: "#4EBEEB"
+      - title: Java Monster Triple Shot Mocha
+        image: 3s_mocha.webp
+        description: For those of us who need that extra boost comes Java Monster 300. Java Monster Mocha has 300mg of natural caffeine in an indulgent Mocha Chocolate flavor.
+        flavor: Rich chocolate with robust brewed coffee
+        color: "#D33134"
